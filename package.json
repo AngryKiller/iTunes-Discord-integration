@@ -46,7 +46,7 @@
     "url": "^0.11.0"
   },
   "devDependencies": {
-    "electron": "5.0.5",
+    "electron": "9.4.0",
     "electron-builder": "^20.44.4"
   },
   "build": {
